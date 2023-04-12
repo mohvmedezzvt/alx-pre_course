@@ -6,4 +6,5 @@ This directory contains exercises and projects related to the basics of using Gi
 
 ## Authors
 - Mohamed Ezzat
+
 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ezzat01/) | [GitHub Profile](https://github.com/mohvmedezzvt)
